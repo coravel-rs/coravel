@@ -1,0 +1,10 @@
+# IDE files
+/.idea/
+/.fleet/
+/.vscode/
+
+# Sub-repositories
+/docs/wiki/
+
+# Build files
+/target/

@@ -1,0 +1,8 @@
+*                   text eol=lf
+.*                  text eol=lf
+
+*.rs                diff=rust
+*.md                diff=markdown
+
+/.github            export-ignore
+CHANGELOG.md        export-ignore
