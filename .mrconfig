@@ -1,0 +1,2 @@
+[docs/wiki]
+checkout = git clone git@github.com:coravel-rs/coravel.wiki.git wiki

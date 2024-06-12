@@ -1,0 +1,10 @@
+*               text eol=lf
+.*              text eol=lf
+
+*.rs            diff=rust
+*.md            diff=markdown
+*.mrconfig      linguist-language=ini diff=ini
+
+/.github        export-ignore
+/docs           export-ignore
+/CHANGELOG.md   export-ignore
